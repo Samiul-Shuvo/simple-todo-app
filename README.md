@@ -17,10 +17,10 @@ A clean and minimal **Todo List App** built using **Next.js** and **Tailwind CSS
 - **Language:** JavaScript (React-based)
 
 ---
-## simple-todo-app/
-├── components/        # Reusable components (e.g., AddTask, TaskItem)
-├── pages/             # Next.js page routes
-├── public/            # Static files (e.g., images, favicon)
-├── styles/            # Tailwind and global CSS
+simple-todo-app/
+├── components/        # Reusable React components (e.g., AddTask, TaskItem)
+├── pages/             # Next.js page components and API routes
+├── public/            # Static assets (e.g., images, favicon)
+├── styles/            # Tailwind CSS configuration and global styles
 ├── package.json       # Project metadata and dependencies
-└── README.md          # You're here!
+└── README.md          # Project documentation (this file)
